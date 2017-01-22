@@ -54,4 +54,5 @@ server.on('connection', function(socket){
 			child.kill();
 	});
 	console.log('5');
+	console.log('hahaha');
 });
